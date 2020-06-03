@@ -15,7 +15,7 @@
 
 .header li a {
 	text-decoration: none;
-	color: #000000;
+	color: #333;
 }
 
 .header li a:hover {
@@ -44,7 +44,7 @@
 	cursor: pointer;
 	display: inline-block;
 	float: right;
-	padding: 24px 20px;
+	padding: 28px 20px;
 	position: relative;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -116,6 +116,7 @@
 so it sits to next to the next item. We have to clear the float in the intro section so the text won't wrap 
 around the menu. You may find it helpful to change 'left' to 'right' to see what happens. */
 
+
 .header .menu {
     margin: 0 0 10px 0;
 }
@@ -123,6 +124,7 @@ around the menu. You may find it helpful to change 'left' to 'right' to see what
 .header ul {
     overflow: visible;
     margin-bottom: 20px;
+	margin-top: 20px;
 }
   
 .header li {
@@ -133,12 +135,6 @@ around the menu. You may find it helpful to change 'left' to 'right' to see what
 .header li a {
     padding: 10px 10px;
     text-align: center;
-}
-    
-ul {
-    text-align: center;
-    line-height: 30px;
-    padding-bottom: 15px;
 }
 
 h1 {
