@@ -49,19 +49,19 @@ Programmer: Ryan VanderZanden
 
         <div class="mySlides fade">
             <div class="numbertext">1 / 3</div>
-            <img src="images/running.jpg" style="width:100%">
+            <img src="images/running.jpg" alt="running" style="width:100%">
             <div class="text">Running</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 3</div>
-            <img src="images/cycling.jpg" style="width:100%">
+            <img src="images/cycling.jpg" alt="cycling" style="width:100%">
             <div class="text">Cycling</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="images/swim.jpg" style="width:100%">
+            <img src="images/swim.jpg" alt="swim" style="width:100%">
             <div class="text">Swimming</div>
         </div>
 
@@ -151,7 +151,7 @@ Remember to bring a change of clothing so you can enjoy the post-event festiviti
 
 </p>
     
-<uL>
+<uL class="faq">
     
     <li>If you chose to use a personal music device, you must always keep one ear open for instructions so only one ear-bud can be used at any time. In addition, if you opt to use music, you will not be eligible for awards, points and rankings. So as an athlete, you have to make a choice - music or awards/points/rankings.</li><br>    
 
